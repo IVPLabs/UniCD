@@ -17,8 +17,8 @@ Authors: Houzhang Fang<sup>1</sup>, Xiaolin Wang<sup>1</sup>, Zengyang Li<sup>1<
 
 </div>
 
-## News: Our work has been selected as a *highlight*  at the CVPR 2025 conference!
-## News: Our new work has been accepted by AAAI 2026：[[Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection](https://github.com/IVPLabX/JFD3)]
+## ⭐News: Our work has been selected as a *highlight*  at the CVPR 2025 conference!
+## ⭐News: Our new work has been accepted by AAAI 2026：[[Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection](https://github.com/IVPLabX/JFD3)]
 
 ## Abstract
 
