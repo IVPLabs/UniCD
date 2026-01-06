@@ -49,7 +49,7 @@ Usage steps:
 - **Step 2.** Choose the output folder where the processed results will be saved. If unchecked, the results will not be saved.
 - **Step 3.** Click the “Execute Process” button. The software will show the corrected results, and save both the corrected images and the estimated bias field images (by checking the box).
 
- Download Software Here -[Baidu Netdisk](<https://pan.baidu.com/s/1klF54EyRUf1eAeA_vgtUaA?pwd=89bv>) (passcode: 89bv), [Google Drive](<https://drive.google.com/file/d/15jGFDuBbl9MSPH2AG9AlS0MPJyJEw0nz/view?usp=sharing>).
+ Download Software Here -[Baidu Netdisk](<https://pan.baidu.com/s/1iT_CWTGMVH_Az5Do98bDfQ?pwd=zkw4>) (passcode: zkw4), [Google Drive](<https://drive.google.com/file/d/15jGFDuBbl9MSPH2AG9AlS0MPJyJEw0nz/view?usp=sharing>).
 
 Key Features:
 
