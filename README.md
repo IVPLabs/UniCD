@@ -77,14 +77,14 @@ In additoin to the above paper, please also consider citing the following refere
   author    = {Houzhang Fang and Shukai Guo and Qiuhuan Chen and Yi Chang and Luxin Yan},
   booktitle   = {Proceedings of the AAAI Conference on Artificial Intelligence},
   year      = {2026},
-  pages     = { },
+  pages     = {3840-3848},
 }
 @inproceedings{2026AAAI_JFD3,
   title     = {Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection},
   author    = {Xiaolin Wang and Houzhang Fang and Qingshan Li and Lu Wang and Yi Chang and Luxin Yan},
   booktitle   = {Proceedings of the AAAI Conference on Artificial Intelligence},
   year      = {2026},
-  pages     = { },
+  pages     = {10181-10189},
 }
 @article{2024TGRS_SCINet,
   title     = {{SCINet}: Spatial and Contrast Interactive Super-Resolution Assisted Infrared {UAV} Target Detection},
